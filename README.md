@@ -13,5 +13,5 @@ This repo contains automation for fetching and parsing useful info from offers a
 
 ```sh
 uv run python3 fetch_offers.py
-sh process_offers.sh
+sh process_offers.sh current_offers.csv
 ```
